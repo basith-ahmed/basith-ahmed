@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basith-Ahmed
-- 👀 I’m interested in UI/XI and Web Development
-- 🌱 I’m currently learning Figma and Python
+- 👀 I’m interested in Full-Stack
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Design and Full-Stack Projects
 - 📫 How to reach me: Mail
 
