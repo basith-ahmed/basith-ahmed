@@ -4,8 +4,8 @@
 
 **My arsenal:**
 
-* **Languages:** HTML , CSS , JavaScript ✨ (and its fancy friend TypeScript ), C  (the OG warrior), Python  (for data-wrangling adventures), and Jupyter Notebooks  (my secret weapon for data exploration)
-* **Technologies:** Node.js, React.js⚛️, Express.js\, Next.js ⚡️, Git, and GitHub.
+* **Languages:** HTML , CSS , JavaScript ✨ (and its fancy friend TypeScript), C  (the OG warrior), Python  (for data-wrangling adventures) and Jupyter Notebooks.
+* **Technologies:** Node.js , React.js⚛️ , Express.js , Next.js ⚡, Git and GitHub.
 
 **I've conquered several full-stack quests, from pixel-perfect websites to data-driven fortresses.** Explore them here: [Portfolio](https://github.com/Basith-Ahmed)
 
