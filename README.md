@@ -10,7 +10,7 @@
 
 **I've conquered several full-stack quests, from pixel-perfect websites to data-driven fortresses.** Explore them here: [Portfolio](https://github.com/Basith-Ahmed)
 
-**But my journey doesn't stop at code.** I'm also a UI/UX design enthusiast, on a mission to create interfaces that are both user-friendly and visually stunning. ✨
+**But my journey doesn't stop at code.** I'm also a UI/UX design enthusiast, on a mission to create interfaces that are both user-friendly and visually stunning.
 
 **When I'm not battling bugs, you can find me freelancing, using my skills to build real-world wonders.** 
 
