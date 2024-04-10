@@ -1,6 +1,6 @@
 # Enter the Pixel Playground of Basith Ahmed 🇮🇳
 
-**Level 18 Computer Science Student, hailing from the land of chai and spicy delights, reporting for duty!**
+**Level 18 Computer Science Student, reporting for duty!**
 
 **My arsenal:**
 
