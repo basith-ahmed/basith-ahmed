@@ -16,7 +16,7 @@
 
 **Ready to join the adventure?**
 
-* **Connect with me on LinkedIn:** [LinkedIn](www.linkedin.com/in/basith-ahmed)
+* **Connect with me on LinkedIn:** [View](www.linkedin.com/in/basith-ahmed)
 * **Let's chat:** Share your coding stories, design challenges, or anything tech-related! 
 
 **This is just the beginning of my epic coding saga, and I can't wait to see what the next level holds.** Stay tuned for more pixelated adventures!
