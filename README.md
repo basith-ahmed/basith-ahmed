@@ -6,7 +6,7 @@
 
 * **Languages:** HTML , CSS , JavaScript , TypeScript , C , C++ , Python.
 * **Technologies:** Node.js , React.js , Express.js , MongoDB , Prisma , Next.js.
-* **Design:** Figma , Webflow , Relume, Framer, Inkspace.
+* **Design:** Figma , Webflow , Relume , Framer , Inkspace.
 
 **I've conquered several full-stack quests, from pixel-perfect websites to data-driven fortresses.** Explore them here: [Portfolio](https://github.com/Basith-Ahmed)
 
