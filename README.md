@@ -5,7 +5,7 @@
 **My arsenal:**
 
 * **Languages:** HTML , CSS , JavaScript , TypeScript , C , C++ , Python.
-* **Technologies:** Node.js , React.js , Express.js , MongoDB , Prisma , Next.js , Git and GitHub.
+* **Technologies:** Node.js , React.js , Express.js , MongoDB , Prisma , Next.js.
 * **Design:** Figma , Webflow , Relume, Framer.
 
 **I've conquered several full-stack quests, from pixel-perfect websites to data-driven fortresses.** Explore them here: [Portfolio](https://github.com/Basith-Ahmed)
