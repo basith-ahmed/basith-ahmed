@@ -1,12 +1,12 @@
-# Enter the Pixel Playground of Basith Ahmed 🇮🇳
+# Enter the Pixel Playground of Basith Ahmed
 
 **Level 18 Computer Science Student~**
 
 **My arsenal:**
 
-* **Languages:** HTML , CSS , JavaScript , TypeScript , C , C++ , Python.
+* **Languages:** HTML , CSS , JavaScript , TypeScript , C , C++ , Python , Solidity.
 * **Technologies:** Node.js , React.js , Express.js , MongoDB , Prisma , Next.js.
-* **Design:** Figma , Webflow , Relume , Framer , Inkspace.
+* **Design:** Figma , Webflow , Framer , Inkspace.
 
 **I've conquered several full-stack quests, from pixel-perfect websites to data-driven fortresses.** Explore them here: [Portfolio](https://github.com/Basith-Ahmed)
 
