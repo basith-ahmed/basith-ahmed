@@ -7,8 +7,8 @@
 * **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js.
 * **Field:** Full-Stack Web Development, Machine Learning Models for Trading.
 
-**Accomplishments:**
-* Mastered full-stack projects and sophisticated trading algorithms. Explore my work: [Portfolio](https://github.com/Basith-Ahmed)
+**What do i do?:**
+* Full-Stack projects and sophisticated trading algorithms. Explore my work: [Portfolio](https://github.com/Basith-Ahmed)
 
 **Beyond Coding:**
 * When not developing, I like to read, draw and listen to Arctic Monkeys.
