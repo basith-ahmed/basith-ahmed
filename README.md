@@ -16,5 +16,3 @@
 **Connect & Collaborate:**
 * **LinkedIn:** [Connect](www.linkedin.com/in/basith-ahmed)
 * **Let's Chat:** Eager to discuss tech breakthroughs and complex challenges.
-
-**Join me as I explore new frontiers in technology. The journey to innovation continues.** Stay tuned!
