@@ -8,7 +8,7 @@
 * **Field:** Full-Stack Web Development, Machine Learning Models for Trading.
 
 **Why is that guy always in his laptop?**
-* Full-Stack projects and sophisticated trading algorithms. Explore my work: [Portfolio](https://github.com/Basith-Ahmed)
+* Building full-stack projects and trading models and algorithms. Explore my work: [Portfolio](https://github.com/Basith-Ahmed)
 
 **Beyond Coding:**
 * When not developing, I like to read, draw and listen to Arctic Monkeys.
