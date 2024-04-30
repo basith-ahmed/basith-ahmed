@@ -3,9 +3,9 @@
 **Computer Science Enthusiast | Level 18**
 
 **Lang & Tech:**
-* **Languages:** HTML, CSS, JavaScript, TypeScript, C, C++, Python, Solidity, Rust, Go
-* **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js, .NET, Selenium
-* **Field:** Full-Stack Web Development, Machine Learning Models for Trading
+* **Languages:** HTML, CSS, JavaScript, TypeScript, C, C++, Python, Solidity.
+* **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js.
+* **Field:** Full-Stack Web Development, Machine Learning Models for Trading.
 
 **Accomplishments:**
 * Mastered full-stack projects and sophisticated trading algorithms. Explore my work: [Portfolio](https://github.com/Basith-Ahmed)
