@@ -14,5 +14,5 @@
 * When not developing, I like to read, draw and listen to Arctic Monkeys.
 
 **Connect & Collaborate:**
-* **LinkedIn:** [Connect](www.linkedin.com/in/basith-ahmed)
+* **LinkedIn:** [Connect](www.linkedin.com/basith-ahmed)
 * **Let's Chat:** Eager to discuss tech breakthroughs and complex challenges.
