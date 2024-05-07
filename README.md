@@ -7,11 +7,8 @@
 * **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js.
 * **Field:** Full-Stack Web Development, Machine Learning Models for Trading.
 
-**Why is that guy always in his laptop?**
+**Why is that guy always on his laptop?**
 * Building full-stack projects and trading models and algorithms. Explore my work: [Portfolio](https://basithahmed.vercel.app)
-
-**Beyond Coding:**
-* When not developing, I like to read, draw and listen to Arctic Monkeys.
 
 **Connect & Collaborate:**
 * **LinkedIn:** [Connect](www.linkedin.com/basith-ahmed)
