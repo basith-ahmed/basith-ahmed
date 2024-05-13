@@ -11,4 +11,3 @@ Explore my work: [Portfolio](https://basithahmed.vercel.app)
 
 **Connect & Collaborate:**
 * **LinkedIn:** [Connect](www.linkedin.com/basith-ahmed)
-* **Let's Chat:** Eager to discuss tech breakthroughs and complex challenges.
