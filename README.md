@@ -5,9 +5,9 @@
 Explore my work: [Portfolio](https://basithahmed.vercel.app)
 
 **Lang & Tech:**
-* **Languages:** HTML, CSS, JavaScript, TypeScript, C, C++, Python, Solidity.
+* **Languages:** C, C++, HTML, CSS, JavaScript, TypeScript, Python, Java.
 * **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js.
-* **Field:** Full-Stack Web Development, Machine Learning Models for Trading.
+* **Field:** Full-Stack Web Development, Machine Learning models for Trading.
 
 **Connect & Collaborate:**
 * **LinkedIn:** [Connect](www.linkedin.com/basith-ahmed)
