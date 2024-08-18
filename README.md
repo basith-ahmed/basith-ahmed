@@ -2,7 +2,7 @@
 
 **Computer Science Enthusiast | Level 19**
 
-Explore my work: [Portfolio](https://basithahmed.vercel.app)
+Explore my work: [Portfolio](https://basithahmed.me)
 
 **Lang & Tech:**
 * **Languages:** C, C++, HTML, CSS, JavaScript, TypeScript, Python, Java.
