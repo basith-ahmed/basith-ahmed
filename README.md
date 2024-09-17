@@ -1,6 +1,6 @@
 # Welcome to my Pixel Playground
 
-**Computer Science Enthusiast | Level 19**
+**Computer Science | Level 19**
 
 Explore my work: [Portfolio](https://basithahmed.me)
 
