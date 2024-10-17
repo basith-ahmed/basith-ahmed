@@ -4,7 +4,7 @@
 
 <p>
 <pre align="center">
-Judge me quickly -> [Portfolio](https://basithahmed.me)
+Judge me quickly -> <a href="https://basithahmed.me">Portfolio</a>
 </pre>
 </p>
 
