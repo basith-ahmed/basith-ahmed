@@ -1,10 +1,18 @@
-# Welcome to my Pixel Playground
+<h1 align="center">
+  Welcome to my Pixel Playground
+</h1>
 
-**Computer Science | Level 19**
+<div align="center">
+  <strong>Human | -10x Dev</strong>
+</div>
+<!--   <span style="float: left;">Human</span>
+  <span style="float: right;">lvl. 19</span> -->
+
+
 
 <p>
 <pre align="center">
-Judge me quickly -> <a href="https://basithahmed.me">Portfolio</a>
+judge me quickly -> <a href="https://basithahmed.me">basithahmed.me</a>
 </pre>
 </p>
 
