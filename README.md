@@ -2,9 +2,9 @@
   Welcome to my Pixel Playground
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <strong>Human | -10x Dev</strong>
-</div>
+</div> -->
 <!--   <span style="float: left;">Human</span>
   <span style="float: right;">lvl. 19</span> -->
 
