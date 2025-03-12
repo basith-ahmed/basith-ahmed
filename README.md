@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Welcome to my Pixel Playground
-</h1>
+</h1> -->
 
 <!-- <div align="center">
   <strong>Human | -10x Dev</strong>
