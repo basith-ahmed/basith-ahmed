@@ -1,24 +1,12 @@
-<!-- <h1 align="center">
+<h1 align="center">
   Welcome to my Pixel Playground
-</h1> -->
-
-<!-- <div align="center">
-  <strong>Human | -10x Dev</strong>
-</div> -->
-<!--   <span style="float: left;">Human</span>
-  <span style="float: right;">lvl. 19</span> -->
-
-
+</h1>
 
 <p>
 <pre align="center">
-portfolio -> <a href="https://basithahmed.me">basithahmed.me</a>
+judge me quickly -> <a href="https://basithahmed.me">basithahmed.me</a>
 </pre>
 </p>
 
-<!--
-**Lang & Tech:**
-* **Languages:** C, C++, HTML, CSS, JavaScript, TypeScript, Python, Java.
-* **Technologies:** Node.js, React.js, Express.js, MongoDB, Prisma, Next.js.
-* **Field:** Full-Stack Web Development, Machine Learning models for Trading.
--->
+<p align="center">
+Send an email at <a href="mailto:basithahmeddd@gmail.com">basithahmeddd@gmail.com<a/> or <a href="https://www.linkedin.com/in/basith-ahmed/">DM me on LinkedIn<a/>. Always open to talk!</p>
