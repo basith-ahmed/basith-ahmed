@@ -12,7 +12,7 @@
 
 <p>
 <pre align="center">
-judge me quickly -> <a href="https://basithahmed.me">basithahmed.me</a>
+portfolio -> <a href="https://basithahmed.me">basithahmed.me</a>
 </pre>
 </p>
 
