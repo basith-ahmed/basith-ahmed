@@ -4,7 +4,7 @@
 
 <p>
 <pre align="center">
-judge me quickly -> <a href="https://basithahmed.me">basithahmed.me</a>
+judge me quickly -> <a href="https://basithahmed.vercel.app">basithahmed.me</a>
 </pre>
 </p>
 
