@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Welcome to my Pixel Playground
-</h1>
+</h1> -->
 
 <p>
 <pre align="center">
